@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+[![Build Status](http://ec2-63-246-112-239.eu-north-1.compute.amazonaws.com/job/new-pipline/GitHubPollLog/badge/icon)](http://ec2-63-246-112-239.eu-north-1.compute.amazonaws.com/job/new-pipline/GitHubPollLog/)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
